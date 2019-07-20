@@ -1,0 +1,14 @@
+{
+  "name": "notdefinedyet",
+  "version": "1.0.0",
+  "description": "Uzerine calistigim en iyi bot, insallah buyuk kitlelere ulasacak.",
+  "main": "index.js",
+  "scripts": {
+    "test": "bot.js"
+  },
+  "author": "halissen",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
